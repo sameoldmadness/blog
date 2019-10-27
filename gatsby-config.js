@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog MDX`,
-    author: `Matt Hagner`,
-    description: `An extension of the gatsby starter blog, with support for MDX`,
-    siteUrl: `https://gatsby-starter-blog-mdx-demo.netlify.com/`,
+    title: `pattern.​observer`,
+    author: `Roman Paradeev`,
+    description: `Random thoughts on software development`,
+    siteUrl: `https://github.com/sameoldmadness`,
     social: {
       twitter: `mattinthecouch`,
     },
